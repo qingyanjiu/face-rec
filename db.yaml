@@ -1,0 +1,5 @@
+host: 43.143.43.63
+port: 5434
+username: postgres
+password: 19831226lc
+db: face
